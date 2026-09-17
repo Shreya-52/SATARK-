@@ -1,11 +1,11 @@
-# SATARK — Smart Procurement Monitoring & Risk Review System
+# SATARK — AI Powered Procurement Anomaly and Relationship Detection System
 
 ![Government Portal](https://img.shields.io/badge/Government-Vigilance%20Portal-navy?style=for-the-badge)
 ![Vercel Status](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Government%20Demo-blue?style=for-the-badge)
 
-> **SATARK** (*Smart Procurement Monitoring & Risk Review System*) is an AI-assisted public procurement vigilance and anomaly detection platform designed for the Government of India. It helps procurement and vigilance officers identify restrictive eligibility criteria, collusive bidding patterns, vendor rotation networks, and price inflation early in the tender lifecycle.
+> **SATARK** (*AI Powered Procurement Anomaly and Relationship Detection System*) is an AI-assisted public procurement vigilance and anomaly detection platform designed for the Government of India. It helps procurement and vigilance officers identify restrictive eligibility criteria, collusive bidding patterns, vendor rotation networks, and price inflation early in the tender lifecycle. This project can even be expanded to be implemented in the private sector.
 
 ---
 
