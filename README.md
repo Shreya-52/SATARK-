@@ -12,7 +12,7 @@
 ## 🌐 Live Application & Links
 
 - **Production Live URL**: [https://satark2.vercel.app](https://satark2.vercel.app)
-- **GitHub Repository**: [https://github.com/pk1305/Satark](https://github.com/pk1305/Satark)
+- **GitHub Repository**: [https://github.com/Shreya-52/SATARK-.git](https://github.com/Shreya-52/SATARK-.git)
 - **Vercel Inspector**: [https://vercel.com/pooja-kumaris-projects-5d057f17/satark2](https://vercel.com/pooja-kumaris-projects-5d057f17/satark2)
 
 ---
