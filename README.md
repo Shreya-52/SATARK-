@@ -11,9 +11,8 @@
 
 ## 🌐 Live Application & Links
 
-- **Production Live URL**: [https://satark2.vercel.app](https://satark2.vercel.app)
+- **Production Live URL**: [https://satark-ai-omega.vercel.app/](https://satark-ai-omega.vercel.app/)
 - **GitHub Repository**: [https://github.com/Shreya-52/SATARK-.git](https://github.com/Shreya-52/SATARK-.git)
-- **Vercel Inspector**: [https://vercel.com/pooja-kumaris-projects-5d057f17/satark2](https://vercel.com/pooja-kumaris-projects-5d057f17/satark2)
 
 ---
 
@@ -130,7 +129,7 @@ Satark/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/pk1305/Satark.git
+   git clone https://github.com/Shreya-52/SATARK-.git
    cd Satark
    ```
 
